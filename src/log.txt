@@ -1,0 +1,116 @@
+2021-07-09 06:31:11 INFO  BankController:62 - created client
+2021-07-09 06:31:11 INFO  BankController:34 - got all clients
+2021-07-09 06:31:11 INFO  BankController:49 - got client
+2021-07-09 06:31:12 ERROR BankController:52 - did not get client
+2021-07-09 06:31:12 INFO  BankController:71 - updated client
+2021-07-09 06:31:12 ERROR BankController:74 - did not update client
+2021-07-09 06:31:12 ERROR BankController:94 - did not delete client
+2021-07-09 06:31:12 ERROR BankController:94 - did not delete client
+2021-07-09 06:31:12 INFO  BankController:165 - created account
+2021-07-09 06:31:12 INFO  BankController:133 - got accounts
+2021-07-09 06:31:13 ERROR BankController:136 - did not get accounts
+2021-07-09 06:31:13 ERROR BankController:155 - did not get account
+2021-07-09 06:31:13 INFO  BankController:152 - got account
+2021-07-09 06:31:13 ERROR BankController:194 - did not update account
+2021-07-09 06:31:13 INFO  BankController:191 - updated account
+2021-07-09 06:31:13 ERROR BankController:214 - did not delete account
+2021-07-09 06:33:57 INFO  BankController:62 - created client
+2021-07-09 06:33:57 INFO  BankController:34 - got all clients
+2021-07-09 06:33:57 INFO  BankController:49 - got client
+2021-07-09 06:33:57 ERROR BankController:52 - did not get client
+2021-07-09 06:33:58 INFO  BankController:71 - updated client
+2021-07-09 06:33:58 ERROR BankController:74 - did not update client
+2021-07-09 06:33:58 ERROR BankController:94 - did not delete client
+2021-07-09 06:33:58 ERROR BankController:94 - did not delete client
+2021-07-09 06:33:58 INFO  BankController:165 - created account
+2021-07-09 06:33:58 INFO  BankController:133 - got accounts
+2021-07-09 06:33:58 ERROR BankController:136 - did not get accounts
+2021-07-09 06:33:59 ERROR BankController:155 - did not get account
+2021-07-09 06:33:59 INFO  BankController:152 - got account
+2021-07-09 06:33:59 ERROR BankController:194 - did not update account
+2021-07-09 06:33:59 INFO  BankController:191 - updated account
+2021-07-09 06:33:59 ERROR BankController:214 - did not delete account
+2021-07-09 06:40:55 INFO  BankController:62 - created client
+2021-07-09 06:40:55 INFO  BankController:34 - got all clients
+2021-07-09 06:40:55 ERROR BankController:52 - did not get client
+2021-07-09 06:40:55 ERROR BankController:52 - did not get client
+2021-07-09 06:40:55 ERROR BankController:74 - did not update client
+2021-07-09 06:40:56 ERROR BankController:74 - did not update client
+2021-07-09 06:40:56 ERROR BankController:94 - did not delete client
+2021-07-09 06:40:56 ERROR BankController:94 - did not delete client
+2021-07-09 06:40:56 INFO  BankController:165 - created account
+2021-07-09 06:40:56 ERROR BankController:155 - did not get account
+2021-07-09 06:40:56 ERROR BankController:155 - did not get account
+2021-07-09 06:40:56 ERROR BankController:194 - did not update account
+2021-07-09 06:40:56 ERROR BankController:194 - did not update account
+2021-07-09 06:40:57 ERROR BankController:214 - did not delete account
+2021-07-09 06:44:40 INFO  BankController:62 - created client
+2021-07-09 06:44:40 INFO  BankController:34 - got all clients
+2021-07-09 06:44:40 INFO  BankController:49 - got client
+2021-07-09 06:44:40 ERROR BankController:52 - did not get client
+2021-07-09 06:44:41 INFO  BankController:71 - updated client
+2021-07-09 06:44:41 ERROR BankController:74 - did not update client
+2021-07-09 06:44:41 INFO  BankController:91 - deleted client
+2021-07-09 06:44:41 ERROR BankController:94 - did not delete client
+2021-07-09 06:44:41 INFO  BankController:165 - created account
+2021-07-09 06:44:41 INFO  BankController:133 - got accounts
+2021-07-09 06:44:41 ERROR BankController:136 - did not get accounts
+2021-07-09 06:44:42 INFO  BankController:152 - got account
+2021-07-09 06:44:42 ERROR BankController:155 - did not get account
+2021-07-09 06:44:42 INFO  BankController:191 - updated account
+2021-07-09 06:44:42 ERROR BankController:194 - did not update account
+2021-07-09 06:44:42 INFO  BankController:211 - deleted account
+2021-07-09 06:58:29 INFO  BankController:62 - created client
+2021-07-09 06:58:29 INFO  BankController:34 - got all clients
+2021-07-09 06:58:30 INFO  BankController:49 - got client
+2021-07-09 06:58:30 ERROR BankController:52 - did not get client
+2021-07-09 06:58:30 INFO  BankController:71 - updated client
+2021-07-09 06:58:30 ERROR BankController:74 - did not update client
+2021-07-09 06:58:30 INFO  BankController:91 - deleted client
+2021-07-09 06:58:30 ERROR BankController:94 - did not delete client
+2021-07-09 06:58:30 INFO  BankController:165 - created account
+2021-07-09 06:58:31 INFO  BankController:133 - got accounts
+2021-07-09 06:58:31 ERROR BankController:136 - did not get accounts
+2021-07-09 06:58:31 INFO  BankController:152 - got account
+2021-07-09 06:58:31 ERROR BankController:155 - did not get account
+2021-07-09 06:58:31 INFO  BankController:191 - updated account
+2021-07-09 06:58:31 ERROR BankController:194 - did not update account
+2021-07-09 06:58:31 INFO  BankController:211 - deleted account
+2021-07-09 06:59:18 INFO  BankController:287 - succesful Transfer
+2021-07-09 07:01:35 INFO  BankController:241 - successfully withdrew
+2021-07-09 09:53:32 INFO  BankController:62 - created client
+2021-07-09 09:53:40 INFO  BankController:34 - got all clients
+2021-07-09 09:53:56 INFO  BankController:49 - got client
+2021-07-09 09:54:10 ERROR BankController:52 - did not get client
+2021-07-09 09:54:29 INFO  BankController:71 - updated client
+2021-07-09 09:54:37 ERROR BankController:74 - did not update client
+2021-07-09 09:54:52 INFO  BankController:91 - deleted client
+2021-07-09 09:55:13 ERROR BankController:94 - did not delete client
+2021-07-09 09:55:34 INFO  BankController:165 - created account
+2021-07-09 09:55:42 INFO  BankController:133 - got accounts
+2021-07-09 09:55:58 ERROR BankController:136 - did not get accounts
+2021-07-09 09:56:08 INFO  BankController:152 - got account
+2021-07-09 09:56:24 ERROR BankController:155 - did not get account
+2021-07-09 09:56:45 INFO  BankController:191 - updated account
+2021-07-09 09:56:58 ERROR BankController:194 - did not update account
+2021-07-09 09:57:09 INFO  BankController:211 - deleted account
+2021-07-09 09:57:43 INFO  BankController:287 - succesful Transfer
+2021-07-09 09:58:07 INFO  BankController:241 - successfully withdrew
+2021-07-09 09:59:58 INFO  BankController:62 - created client
+2021-07-09 09:59:58 INFO  BankController:34 - got all clients
+2021-07-09 09:59:59 INFO  BankController:49 - got client
+2021-07-09 09:59:59 ERROR BankController:52 - did not get client
+2021-07-09 09:59:59 INFO  BankController:71 - updated client
+2021-07-09 09:59:59 ERROR BankController:74 - did not update client
+2021-07-09 09:59:59 ERROR BankController:94 - did not delete client
+2021-07-09 09:59:59 ERROR BankController:94 - did not delete client
+2021-07-09 09:59:59 INFO  BankController:165 - created account
+2021-07-09 10:00:00 INFO  BankController:133 - got accounts
+2021-07-09 10:00:00 ERROR BankController:136 - did not get accounts
+2021-07-09 10:00:00 ERROR BankController:155 - did not get account
+2021-07-09 10:00:00 INFO  BankController:152 - got account
+2021-07-09 10:00:00 ERROR BankController:194 - did not update account
+2021-07-09 10:00:00 INFO  BankController:191 - updated account
+2021-07-09 10:00:00 ERROR BankController:214 - did not delete account
+2021-07-09 10:00:01 INFO  BankController:287 - succesful Transfer
+2021-07-09 10:00:01 ERROR BankController:234 - insufficient funds
